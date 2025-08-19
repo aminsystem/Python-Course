@@ -4,7 +4,7 @@
 ## 🚀 How to Use This Repo
 
 You can open and run the code using:
-- [Google Colab](https://colab.research.google.com/) – no install needed  
+- [Google Colab](https://colab.research.google.com/github/aminsystem/Python-Course/blob/main/Pyrhon_Course.ipynb) – no install needed  
 - Jupyter Notebook – great for step-by-step learning  
 - VS Code / PyCharm – if you prefer real project structure
 
